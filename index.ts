@@ -1,4 +1,4 @@
-import {snakeCase} from "snake-case";
+import {snakeCase} from "change-case-all";
 
 const x = snakeCase('snakeCase');
 
