@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/intellij-import-test/intellij-import-test.iml" filepath="$PROJECT_DIR$/intellij-import-test/intellij-import-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/intellij-import-test.iml" filepath="$PROJECT_DIR$/.idea/intellij-import-test.iml" />
     </modules>
   </component>
 </project>
