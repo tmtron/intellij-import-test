@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f67a790-eebe-4ada-9e84-2712df49c30d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij-import-test/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij-import-test/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij-import-test/intellij-import-test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij-import-test/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij-import-test/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij-import-test/tsconfig.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-import-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -54,9 +46,31 @@
       <option name="presentableId" value="Default" />
       <updated>1587796318731</updated>
     </task>
+    <task id="LOCAL-00001" summary="changed project-layout">
+      <created>1587796380528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587796380528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed project-layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed project-layout" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="81" width="978" height="877" key="CommitChangelistDialog2" timestamp="1587796379965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="584" y="81" width="978" height="877" key="CommitChangelistDialog2/0.0.1920.1040/1920.-1.1920.1040@0.0.1920.1040" timestamp="1587796379965" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587796382601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-1.1920.1040@0.0.1920.1040" timestamp="1587796382601" />
   </component>
 </project>
