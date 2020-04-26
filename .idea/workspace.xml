@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f67a790-eebe-4ada-9e84-2712df49c30d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-import-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="additional-import" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b1OpoFK2uCjGpjm3nhUvYkcZ5f" />
@@ -53,24 +58,35 @@
       <option name="project" value="LOCAL" />
       <updated>1587796380528</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added some comments on new branch">
+      <created>1587887099676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587887099676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed project-layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed project-layout" />
+    <MESSAGE value="added some comments on new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some comments on new branch" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="584" y="81" width="978" height="877" key="CommitChangelistDialog2" timestamp="1587796379965">
+    <state x="584" y="81" width="978" height="877" key="CommitChangelistDialog2" timestamp="1587887099233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="584" y="81" width="978" height="877" key="CommitChangelistDialog2/0.0.1920.1040/1920.-1.1920.1040@0.0.1920.1040" timestamp="1587796379965" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587796382601">
+    <state x="584" y="81" width="978" height="877" key="CommitChangelistDialog2/0.0.1920.1040/1920.-1.1920.1040@0.0.1920.1040" timestamp="1587887099233" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587887101574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-1.1920.1040@0.0.1920.1040" timestamp="1587796382601" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-1.1920.1040@0.0.1920.1040" timestamp="1587887101574" />
   </component>
 </project>
